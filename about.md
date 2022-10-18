@@ -6,8 +6,7 @@ redirect_from: /about.html
 ---
 
 ## Hi there 👋
-Introduce your self
-I`m NrdyBhu1
+안녕하세요 소시민A입니다.
 
 # About Me
 Tell more about your self
