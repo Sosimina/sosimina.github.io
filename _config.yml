@@ -4,7 +4,7 @@ desciption: >
 email: swgood4@gmail.com
 baseurl: "/atlas-jekyll-theme" # the subpath of your site, e.g. /blog
 #replace nrdybhu1.github.io with your domainname.com
-url: "https://sosimina.github.io" # the base hostname & protocol for your site
+url: "https://nrdybhu1.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  sosimina
 markdown: kramdown
