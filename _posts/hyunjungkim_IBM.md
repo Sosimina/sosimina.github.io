@@ -1,5 +1,5 @@
 ---
-title: 김민성 상무님 인터뷰
+title: 김현정 대표 인터뷰
 date: YYYY-MM-DD HH:MM:SS +09:00
 categories: []
 tags:
@@ -8,6 +8,6 @@ tags:
 ---
 
 
-![minsungkim](https://github.com/Sosimina/sosimina.github.io/blob/main/k8s_architecture.png?raw=true)
+![hyunjung](https://github.com/Sosimina/sosimina.github.io/blob/main/hyunjungkim.jpg?raw=true)
 
 
