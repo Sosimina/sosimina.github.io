@@ -24,5 +24,5 @@ Samsung DS에서의 K8S 고도화 프로젝트를 진행 후 Local PC에서 직�
 4. 해당사항은 
 [k8s 링크](https://github.com/Sosimina/k8s_local/blob/main/K8s_Project/Kubernetes_local_sangwon.docx)
 
-파일에서 자세히 볼 수 있습니다.
+파일에서 자세히 볼 수 있습니다. (View raw 클릭하면 다운받아집니다.)
 
